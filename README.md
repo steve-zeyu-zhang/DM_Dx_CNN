@@ -2,7 +2,7 @@
 
 
 ### Contacts
-[Supervisor: Dr Md Zakir Hossain](zakir.hossain@csiro.au)
+[Supervisor: Dr Md Zakir Hossain](https://cecs.anu.edu.au/people/md-zakir-hossain)
 
-[Student: Zeyu Zhang](steve.zhang22@imperial.ac.uk)
+Student: Zeyu Zhang
 
