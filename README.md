@@ -1,1 +1,1 @@
-# DM_Dx_CNN
+# Diabetes Diagnostic Model Based On Convolutional Neural Network
