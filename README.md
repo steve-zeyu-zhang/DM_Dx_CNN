@@ -1,4 +1,4 @@
-## Diabetes Diagnostic Model Based On Convolutional Neural Network
+## A Deep Learning Approach to Diabetes Diagnosis
 
 
 Student: Zeyu Zhang
