@@ -20,5 +20,7 @@ in Pima diabetes dataset, **75.49%** in CDC BRFSS2015 dataset, and
 **95.28%** in Mesra Diabetes dataset. This underscores the potential of advanced deep learning models, including Transformers, for robust diabetes
 diagnosis._
 
+![main](static/images/diabetes.svg)
+
 </div>
 
