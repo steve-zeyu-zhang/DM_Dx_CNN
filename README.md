@@ -24,6 +24,9 @@ diagnosis._
 
 ![main](static/images/diabetes.svg)
 
+## News
+<b>(3/2/2024)</b> &#127881; Our paper has been accepted to <a href="https://aciids.pwr.edu.pl/2024/"><b>ACIIDS 2024</b></a>!
+
 ## Code
 
 See [main.ipynb](https://github.com/steve-zeyu-zhang/DiabetesDiagnosis/blob/main/main.ipynb)
